@@ -13,6 +13,30 @@ Hey there! 👋 I'm Quang Nguyen, and I'm thrilled to introduce you to my AI age
 
 **Folder:**
 
-![image](https://github.com/QuangNguyen2910/Atari_game_Agents/assets/127973111/8ddd95c7-60be-4f4f-b80f-c37c3e92da9e)
+D:.
+│   atari_wrapper.py
+│   main.py
+│   Visualize.py
+│
+├───Agents
+│   └───DQN_Agent
+│       │   DeepQAgent.py
+│       │   DeepQNetwork.py
+│       │
+│       └───__pycache__
+│               DeepQAgent.cpython-39.pyc
+│               DeepQNetwork.cpython-39.pyc
+│
+├───Model_for_Agents
+│       model
+│
+├───Videos
+│       agent.gif
+│
+└───__pycache__
+        atari_wrapper.cpython-39.pyc
+        DeepQAgent.cpython-39.pyc
+        DeepQNetwork.cpython-39.pyc
+        Visualize.cpython-39.pyc
         
 **Feel free to customize it according to your preferences and add any additional information about your project!**
