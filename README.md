@@ -9,6 +9,7 @@ Hey there! 👋 I'm Quang Nguyen, and I'm thrilled to introduce you to my AI age
 **- Upcoming games: Breakout-v5, Assault-v5,...**
 
 **Folder:**
+
 ![image](https://github.com/QuangNguyen2910/Atari_game_Agents/assets/127973111/8ddd95c7-60be-4f4f-b80f-c37c3e92da9e)
         
 **Feel free to customize it according to your preferences and add any additional information about your project!**
